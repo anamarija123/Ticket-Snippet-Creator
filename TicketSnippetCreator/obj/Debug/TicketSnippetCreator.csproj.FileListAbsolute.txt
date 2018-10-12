@@ -1,0 +1,10 @@
+C:\Projects\Laka industrija\Projekti\Utilities\TicketSnippetCreator\TicketSnippetCreator\bin\Debug\TicketSnippetCreator.exe.config
+C:\Projects\Laka industrija\Projekti\Utilities\TicketSnippetCreator\TicketSnippetCreator\bin\Debug\TicketSnippetCreator.exe
+C:\Projects\Laka industrija\Projekti\Utilities\TicketSnippetCreator\TicketSnippetCreator\bin\Debug\TicketSnippetCreator.pdb
+C:\Projects\Laka industrija\Projekti\Utilities\TicketSnippetCreator\TicketSnippetCreator\bin\Debug\ExcelDataReader.dll
+C:\Projects\Laka industrija\Projekti\Utilities\TicketSnippetCreator\TicketSnippetCreator\bin\Debug\ExcelDataReader.xml
+C:\Projects\Laka industrija\Projekti\Utilities\TicketSnippetCreator\TicketSnippetCreator\obj\Debug\TicketSnippetCreator.csprojAssemblyReference.cache
+C:\Projects\Laka industrija\Projekti\Utilities\TicketSnippetCreator\TicketSnippetCreator\obj\Debug\TicketSnippetCreator.csproj.CoreCompileInputs.cache
+C:\Projects\Laka industrija\Projekti\Utilities\TicketSnippetCreator\TicketSnippetCreator\obj\Debug\TicketSnippetCreator.csproj.CopyComplete
+C:\Projects\Laka industrija\Projekti\Utilities\TicketSnippetCreator\TicketSnippetCreator\obj\Debug\TicketSnippetCreator.exe
+C:\Projects\Laka industrija\Projekti\Utilities\TicketSnippetCreator\TicketSnippetCreator\obj\Debug\TicketSnippetCreator.pdb
